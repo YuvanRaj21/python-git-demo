@@ -7,3 +7,4 @@ def subtract(a, b):
 if __name__ == "__main__":
     print("Add: ", add(2, 3))
     print("Subtract: ", subtract(5, 2))
+    print("allow gitgit status")
